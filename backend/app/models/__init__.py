@@ -1,2 +1,1 @@
-# app/models/__init__.py
-# Empty file to make package
+# Empty __init__ for models package

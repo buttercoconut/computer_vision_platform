@@ -1,12 +1,7 @@
 fastapi
 uvicorn
-sqlalchemy
-psycopg2-binary
 pydantic
-python-multipart
-python-magic
-opencv-python-headless
+asyncpg
 torch
 torchvision
-transformers
-pillow
+Pillow

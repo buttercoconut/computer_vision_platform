@@ -1,2 +1,1 @@
-# app/api/__init__.py
-# Empty file to make package
+# Empty __init__ for api package
